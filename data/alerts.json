@@ -1,16 +1,34 @@
 {
-  "checked_at": "2026-03-23 16:54:20 (Hora Colombia)",
+  "checked_at": "2026-03-24 08:37:59 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "VRT",
+      "ticker": "PLTR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "KLAC",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "KLAC",
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BP",
       "failed": [
         "Analysis"
       ]
