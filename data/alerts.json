@@ -1,36 +1,12 @@
 {
-  "checked_at": "2026-03-26 16:48:01 (Hora Colombia)",
+  "checked_at": "2026-03-27 11:41:19 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
     {
-      "ticker": "DLO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "POWL",
       "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "SQM",
-      "failed": [
         "Entry Zones"
-      ]
-    },
-    {
-      "ticker": "SLB",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
