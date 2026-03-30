@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-03-30 08:48:53 (Hora Colombia)",
+  "checked_at": "2026-03-30 12:16:44 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
       "ticker": "SQM",
-      "composite": 56,
+      "composite": 61,
       "prob": 95,
       "zones": {
         "entry": 81.46,
@@ -14,6 +14,7 @@
       },
       "periods": [
         "1 Semana",
+        "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
