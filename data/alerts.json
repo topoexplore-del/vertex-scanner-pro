@@ -1,12 +1,29 @@
 {
-  "checked_at": "2026-03-27 16:08:38 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-03-30 08:48:53 (Hora Colombia)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "SQM",
+      "composite": 56,
+      "prob": 95,
+      "zones": {
+        "entry": 81.46,
+        "tp1": 85.18,
+        "tp2": 87.66,
+        "sl": 81.05
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "POWL",
       "failed": [
-        "Entry Zones"
+        "Radar"
       ]
     }
   ]
