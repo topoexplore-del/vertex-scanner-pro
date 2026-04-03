@@ -1,33 +1,41 @@
 {
-  "checked_at": "2026-04-02 16:24:32 (Hora Colombia)",
+  "checked_at": "2026-04-03 09:40:36 (Hora Colombia)",
   "confirmed": 1,
   "signals": [
     {
-      "ticker": "FMX",
-      "composite": 61,
+      "ticker": "AZN",
+      "composite": 81,
       "prob": 95,
       "zones": {
-        "entry": 111.4,
-        "tp1": 116.49,
-        "tp2": 119.89,
-        "sl": 110.84
+        "entry": 200.44,
+        "tp1": 209.59,
+        "tp2": 215.7,
+        "sl": 199.42
       },
       "periods": [
-        "1 Semana"
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
       ]
     }
   ],
   "watchlist": [
     {
-      "ticker": "SQM",
+      "ticker": "AMAT",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "XOM",
+      "ticker": "POWL",
       "failed": [
-        "Analysis"
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
       ]
     }
   ]
