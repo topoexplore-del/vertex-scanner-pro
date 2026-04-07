@@ -1,25 +1,20 @@
 {
-  "checked_at": "2026-04-06 16:24:00 (Hora Colombia)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "AZN",
-      "composite": 81,
-      "prob": 95,
-      "zones": {
-        "entry": 200.44,
-        "tp1": 209.59,
-        "tp2": 215.7,
-        "sl": 199.42
-      },
-      "periods": [
-        "1 Semana",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-07 10:04:27 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
+    {
+      "ticker": "MU",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
     {
       "ticker": "AMAT",
       "failed": [
@@ -27,7 +22,19 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "FCX",
       "failed": [
         "Radar"
       ]
