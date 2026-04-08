@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-08T21:13:40.607512Z",
+  "built_at": "2026-04-08T22:11:30.625679Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1137,7 +1137,7 @@
         "daily": -2.4,
         "5d": -2.97,
         "20d": 4.69,
-        "pe": 41.0,
+        "pe": 40.0,
         "pe_gr": "Overval",
         "roe": 9.7,
         "roe_gr": "Weak",
@@ -2300,7 +2300,7 @@
         "eps_gr": "Solid",
         "fund": 42.0,
         "sector": "Financial Services",
-        "mktcap": "$313B",
+        "mktcap": "$310B",
         "target": 94.94,
         "upside": 11.5,
         "proj_conf": "Low",
@@ -3131,7 +3131,7 @@
         "daily": -3.56,
         "5d": -4.81,
         "20d": -4.1,
-        "pe": 18.5,
+        "pe": 18.4,
         "pe_gr": "Fair",
         "roe": 18.2,
         "roe_gr": "Good",
@@ -3162,7 +3162,7 @@
         "daily": -0.89,
         "5d": -1.5,
         "20d": 15.42,
-        "pe": 15.3,
+        "pe": 15.2,
         "pe_gr": "Fair",
         "roe": 7.6,
         "roe_gr": "Weak",
@@ -4573,7 +4573,7 @@
         "eps_gr": "Mod",
         "fund": 42.0,
         "sector": "Technology",
-        "mktcap": "$102B",
+        "mktcap": "$103B",
         "target": 106.04,
         "upside": 5.5,
         "proj_conf": "Low",
