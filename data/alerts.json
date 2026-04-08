@@ -1,28 +1,43 @@
 {
-  "checked_at": "2026-04-07 16:03:41 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-04-08 10:06:42 (Hora Colombia)",
+  "confirmed": 2,
+  "signals": [
+    {
+      "ticker": "AZN",
+      "composite": 81,
+      "prob": 95,
+      "zones": {
+        "entry": 197.8,
+        "tp1": 206.83,
+        "tp2": 212.86,
+        "sl": 196.79
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 59.85,
+        "tp1": 62.58,
+        "tp2": 64.41,
+        "sl": 59.54
+      },
+      "periods": [
+        "1 Semana",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
-      "ticker": "MU",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
       "failed": [
         "Radar"
       ]
@@ -34,15 +49,15 @@
       ]
     },
     {
-      "ticker": "FCX",
+      "ticker": "SQM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "SQM",
+      "ticker": "BSAC",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     }
   ]
