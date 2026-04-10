@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-10T21:02:24.001506Z",
+  "built_at": "2026-04-10T22:07:11.872851Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -2300,7 +2300,7 @@
         "eps_gr": "Solid",
         "fund": 42.0,
         "sector": "Financial Services",
-        "mktcap": "$310B",
+        "mktcap": "$313B",
         "target": 100.9,
         "upside": 11.8,
         "proj_conf": "Low",
@@ -4573,7 +4573,7 @@
         "eps_gr": "Mod",
         "fund": 42.0,
         "sector": "Technology",
-        "mktcap": "$88B",
+        "mktcap": "$87B",
         "target": 97.62,
         "upside": 8.7,
         "proj_conf": "Low",
@@ -6402,7 +6402,7 @@
         "eps_gr": "Decl",
         "fund": 67.0,
         "sector": "Consumer Defensive",
-        "mktcap": "$340B",
+        "mktcap": "$339B",
         "target": 147.16,
         "upside": 0.3,
         "proj_conf": "Low",
