@@ -1,16 +1,33 @@
 {
-  "checked_at": "2026-04-10 16:02:24 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-13 10:13:56 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
+    {
+      "ticker": "TSM",
+      "composite": 85,
+      "prob": 95,
+      "zones": {
+        "entry": 365.04,
+        "tp1": 381.72,
+        "tp2": 392.84,
+        "sl": 363.19
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    },
     {
       "ticker": "ANET",
       "composite": 74,
       "prob": 95,
       "zones": {
-        "entry": 143.86,
-        "tp1": 150.43,
-        "tp2": 154.81,
-        "sl": 143.13
+        "entry": 145.14,
+        "tp1": 151.77,
+        "tp2": 156.19,
+        "sl": 144.4
       },
       "periods": [
         "1 Semana",
@@ -25,10 +42,10 @@
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 113.55,
-        "tp1": 118.74,
-        "tp2": 122.2,
-        "sl": 112.97
+        "entry": 114.86,
+        "tp1": 120.11,
+        "tp2": 123.61,
+        "sl": 114.28
       },
       "periods": [
         "1 Mes"
@@ -40,6 +57,12 @@
       "ticker": "MU",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "GSK",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -61,9 +84,9 @@
       ]
     },
     {
-      "ticker": "BBVA",
+      "ticker": "DEO",
       "failed": [
-        "Analysis"
+        "Radar"
       ]
     },
     {
@@ -73,13 +96,25 @@
       ]
     },
     {
+      "ticker": "ABEV",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "SQM",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "BCH",
+      "ticker": "VALE",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "EWW",
       "failed": [
         "Analysis"
       ]
