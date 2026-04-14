@@ -1,57 +1,7 @@
 {
-  "checked_at": "2026-04-13 16:37:32 (Hora Colombia)",
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "TSM",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 365.04,
-        "tp1": 381.72,
-        "tp2": 392.84,
-        "sl": 363.19
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "composite": 74,
-      "prob": 95,
-      "zones": {
-        "entry": 145.14,
-        "tp1": 151.77,
-        "tp2": 156.19,
-        "sl": 144.4
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses",
-        "1 A\u00f1o"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 114.86,
-        "tp1": 120.11,
-        "tp2": 123.61,
-        "sl": 114.28
-      },
-      "periods": [
-        "1 Mes"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-14 10:10:59 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "MU",
@@ -60,15 +10,15 @@
       ]
     },
     {
-      "ticker": "GSK",
+      "ticker": "BWMX",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "AMX",
       "failed": [
-        "Radar"
+        "Analysis"
       ]
     },
     {
@@ -84,7 +34,43 @@
       ]
     },
     {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "GE",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "META",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ITW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
       "ticker": "DEO",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BBVA",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SPGI",
       "failed": [
         "Radar"
       ]
@@ -96,27 +82,9 @@
       ]
     },
     {
-      "ticker": "ABEV",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SQM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "VALE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "EWW",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
