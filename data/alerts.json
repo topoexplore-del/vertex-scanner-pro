@@ -1,24 +1,27 @@
 {
-  "checked_at": "2026-04-14 16:36:23 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-04-15 10:05:31 (Hora Colombia)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "FMX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 113.34,
+        "tp1": 118.52,
+        "tp2": 121.97,
+        "sl": 112.77
+      },
+      "periods": [
+        "1 Mes"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "MU",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "BWMX",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AMX",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -40,45 +43,45 @@
       ]
     },
     {
-      "ticker": "GE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "META",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "JPM",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "DEO",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "BBVA",
+      "ticker": "ASML",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "SPGI",
-      "failed": [
-        "Radar"
       ]
     },
     {
       "ticker": "FCX",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "TT",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "AVAL",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BCS",
+      "failed": [
+        "Analysis"
       ]
     },
     {
