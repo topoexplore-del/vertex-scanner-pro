@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-04-15 16:32:10 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-16 10:27:20 (Hora Colombia)",
+  "confirmed": 3,
   "signals": [
     {
       "ticker": "TSM",
       "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 374.19,
-        "tp1": 391.29,
-        "tp2": 402.68,
-        "sl": 372.29
+        "entry": 369.47,
+        "tp1": 386.35,
+        "tp2": 397.61,
+        "sl": 367.6
       },
       "periods": [
         "1 Semana",
@@ -20,14 +20,30 @@
       ]
     },
     {
+      "ticker": "NVDA",
+      "composite": 80,
+      "prob": 95,
+      "zones": {
+        "entry": 195.89,
+        "tp1": 204.84,
+        "tp2": 210.8,
+        "sl": 194.89
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
+      ]
+    },
+    {
       "ticker": "FMX",
       "composite": 61,
       "prob": 95,
       "zones": {
-        "entry": 113.34,
-        "tp1": 118.52,
-        "tp2": 121.97,
-        "sl": 112.77
+        "entry": 115.25,
+        "tp1": 120.51,
+        "tp2": 124.02,
+        "sl": 114.66
       },
       "periods": [
         "1 Mes"
@@ -36,9 +52,15 @@
   ],
   "watchlist": [
     {
-      "ticker": "MU",
+      "ticker": "AMX",
       "failed": [
-        "Radar"
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "CMI",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -60,21 +82,15 @@
       ]
     },
     {
-      "ticker": "META",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "ASML",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "META",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -90,13 +106,13 @@
       ]
     },
     {
-      "ticker": "AVAL",
+      "ticker": "BSAC",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "BCS",
+      "ticker": "AVAL",
       "failed": [
         "Analysis"
       ]
@@ -105,6 +121,12 @@
       "ticker": "SQM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "EWW",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
