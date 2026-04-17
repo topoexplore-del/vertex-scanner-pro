@@ -1,60 +1,24 @@
 {
-  "checked_at": "2026-04-16 16:03:41 (Hora Colombia)",
-  "confirmed": 3,
-  "signals": [
-    {
-      "ticker": "TSM",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 369.47,
-        "tp1": 386.35,
-        "tp2": 397.61,
-        "sl": 367.6
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "composite": 80,
-      "prob": 95,
-      "zones": {
-        "entry": 195.89,
-        "tp1": 204.84,
-        "tp2": 210.8,
-        "sl": 194.89
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    },
-    {
-      "ticker": "FMX",
-      "composite": 61,
-      "prob": 95,
-      "zones": {
-        "entry": 115.25,
-        "tp1": 120.51,
-        "tp2": 124.02,
-        "sl": 114.66
-      },
-      "periods": [
-        "1 Mes"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-17 09:52:53 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
-      "ticker": "AMX",
+      "ticker": "DLO",
       "failed": [
         "Analysis"
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
+      "failed": [
+        "Radar"
       ]
     },
     {
@@ -82,33 +46,15 @@
       ]
     },
     {
-      "ticker": "ASML",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "META",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "FCX",
+      "ticker": "SPGI",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "TT",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BSAC",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -121,6 +67,24 @@
       "ticker": "SQM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "MS",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BA",
+      "failed": [
+        "Analysis"
       ]
     },
     {
