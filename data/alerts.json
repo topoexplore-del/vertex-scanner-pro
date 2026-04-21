@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-21 15:38:50 (Hora Colombia)",
+  "checked_at": "2026-04-21 16:29:46 (Hora Colombia)",
   "confirmed": 0,
   "signals": [],
   "watchlist": [
@@ -17,12 +17,6 @@
     },
     {
       "ticker": "TSM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -58,15 +52,15 @@
       ]
     },
     {
-      "ticker": "BCH",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
       "ticker": "SQM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "BCH",
+      "failed": [
+        "Analysis"
       ]
     },
     {
