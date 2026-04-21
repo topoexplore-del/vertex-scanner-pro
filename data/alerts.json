@@ -1,35 +1,12 @@
 {
-  "checked_at": "2026-04-20 16:14:05 (Hora Colombia)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "ROK",
-      "composite": 76,
-      "prob": 95,
-      "zones": {
-        "entry": 409.49,
-        "tp1": 428.2,
-        "tp2": 440.67,
-        "sl": 407.42
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-21 10:09:20 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "MU",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "DLO",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -51,27 +28,9 @@
       ]
     },
     {
-      "ticker": "CMI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
       "ticker": "POWL",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "GE",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -81,21 +40,9 @@
       ]
     },
     {
-      "ticker": "ITW",
+      "ticker": "BBVA",
       "failed": [
         "Analysis"
-      ]
-    },
-    {
-      "ticker": "ITUB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "SPGI",
-      "failed": [
-        "Radar"
       ]
     },
     {
@@ -106,6 +53,30 @@
     },
     {
       "ticker": "BAC",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "SQM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "BCH",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "LOW",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "BIDU",
       "failed": [
         "Analysis"
       ]
