@@ -1,7 +1,24 @@
 {
-  "checked_at": "2026-04-21 16:29:46 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-04-22 10:12:01 (Hora Colombia)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "FCX",
+      "composite": 61,
+      "prob": 95,
+      "zones": {
+        "entry": 66.56,
+        "tp1": 69.6,
+        "tp2": 71.62,
+        "sl": 66.22
+      },
+      "periods": [
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
     {
       "ticker": "MU",
@@ -10,7 +27,7 @@
       ]
     },
     {
-      "ticker": "BWMX",
+      "ticker": "AMX",
       "failed": [
         "Analysis"
       ]
@@ -22,33 +39,21 @@
       ]
     },
     {
+      "ticker": "YMM",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "META",
+      "ticker": "HAL",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BBVA",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BAC",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -58,19 +63,13 @@
       ]
     },
     {
-      "ticker": "BCH",
+      "ticker": "SLB",
       "failed": [
         "Analysis"
       ]
     },
     {
-      "ticker": "LOW",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BIDU",
+      "ticker": "BA",
       "failed": [
         "Analysis"
       ]
