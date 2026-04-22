@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-04-22T21:32:07.236286Z",
+  "built_at": "2026-04-22T22:25:20.766305Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -1085,7 +1085,7 @@
         "eps_gr": "N/A",
         "fund": 33.0,
         "sector": "Basic Materials",
-        "mktcap": "$76B",
+        "mktcap": "$75B",
         "target": 18.83,
         "upside": 7.9,
         "proj_conf": "Med",
