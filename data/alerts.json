@@ -1,35 +1,38 @@
 {
-  "checked_at": "2026-04-27 16:42:48 (Hora Colombia)",
+  "checked_at": "2026-04-28 11:08:03 (Hora Colombia)",
   "confirmed": 2,
   "signals": [
     {
-      "ticker": "GOOGL",
+      "ticker": "AMAT",
       "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 339.23,
-        "tp1": 354.73,
-        "tp2": 365.06,
-        "sl": 337.51
+        "entry": 398.79,
+        "tp1": 417.01,
+        "tp2": 429.15,
+        "sl": 396.76
       },
       "periods": [
+        "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
       ]
     },
     {
-      "ticker": "FMX",
-      "composite": 61,
+      "ticker": "ETN",
+      "composite": 75,
       "prob": 95,
       "zones": {
-        "entry": 112.02,
-        "tp1": 117.14,
-        "tp2": 120.55,
-        "sl": 111.46
+        "entry": 410.52,
+        "tp1": 429.27,
+        "tp2": 441.78,
+        "sl": 408.43
       },
       "periods": [
-        "1 Mes"
+        "1 Semana",
+        "1 Mes",
+        "3 Meses"
       ]
     }
   ],
@@ -38,12 +41,6 @@
       "ticker": "MU",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "AMX",
-      "failed": [
-        "Analysis"
       ]
     },
     {
@@ -59,13 +56,13 @@
       ]
     },
     {
-      "ticker": "AMAT",
+      "ticker": "POWL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "POWL",
+      "ticker": "ANET",
       "failed": [
         "Radar"
       ]
@@ -77,13 +74,7 @@
       ]
     },
     {
-      "ticker": "HAL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "AVAL",
+      "ticker": "TT",
       "failed": [
         "Analysis"
       ]
@@ -96,18 +87,6 @@
     },
     {
       "ticker": "SLB",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "VALE",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "BIDU",
       "failed": [
         "Analysis"
       ]
