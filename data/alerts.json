@@ -1,38 +1,22 @@
 {
-  "checked_at": "2026-04-28 16:45:34 (Hora Colombia)",
-  "confirmed": 2,
+  "checked_at": "2026-04-29 10:55:50 (Hora Colombia)",
+  "confirmed": 1,
   "signals": [
     {
-      "ticker": "AMAT",
+      "ticker": "TSM",
       "composite": 85,
       "prob": 95,
       "zones": {
-        "entry": 398.79,
-        "tp1": 417.01,
-        "tp2": 429.15,
-        "sl": 396.76
+        "entry": 386.45,
+        "tp1": 404.11,
+        "tp2": 415.88,
+        "sl": 384.49
       },
       "periods": [
         "1 Semana",
         "1 Mes",
         "3 Meses",
         "6 Meses"
-      ]
-    },
-    {
-      "ticker": "ETN",
-      "composite": 75,
-      "prob": 95,
-      "zones": {
-        "entry": 410.52,
-        "tp1": 429.27,
-        "tp2": 441.78,
-        "sl": 408.43
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses"
       ]
     }
   ],
@@ -44,7 +28,13 @@
       ]
     },
     {
-      "ticker": "TSM",
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "YMM",
       "failed": [
         "Radar"
       ]
@@ -53,6 +43,12 @@
       "ticker": "LRCX",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "KO",
+      "failed": [
+        "Analysis"
       ]
     },
     {
@@ -74,7 +70,19 @@
       ]
     },
     {
-      "ticker": "TT",
+      "ticker": "HAL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "NXPI",
+      "failed": [
+        "Analysis"
+      ]
+    },
+    {
+      "ticker": "RIO",
       "failed": [
         "Analysis"
       ]
@@ -86,7 +94,7 @@
       ]
     },
     {
-      "ticker": "SLB",
+      "ticker": "PWR",
       "failed": [
         "Analysis"
       ]
