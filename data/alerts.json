@@ -1,25 +1,7 @@
 {
-  "checked_at": "2026-04-29 16:18:33 (Hora Colombia)",
-  "confirmed": 1,
-  "signals": [
-    {
-      "ticker": "TSM",
-      "composite": 85,
-      "prob": 95,
-      "zones": {
-        "entry": 386.45,
-        "tp1": 404.11,
-        "tp2": 415.88,
-        "sl": 384.49
-      },
-      "periods": [
-        "1 Semana",
-        "1 Mes",
-        "3 Meses",
-        "6 Meses"
-      ]
-    }
-  ],
+  "checked_at": "2026-04-30 10:47:27 (Hora Colombia)",
+  "confirmed": 0,
+  "signals": [],
   "watchlist": [
     {
       "ticker": "MU",
@@ -28,43 +10,7 @@
       ]
     },
     {
-      "ticker": "AMAT",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "YMM",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "LRCX",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "KO",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "POWL",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "ANET",
-      "failed": [
-        "Radar"
-      ]
-    },
-    {
-      "ticker": "META",
+      "ticker": "NXPI",
       "failed": [
         "Radar"
       ]
@@ -76,13 +22,7 @@
       ]
     },
     {
-      "ticker": "NXPI",
-      "failed": [
-        "Analysis"
-      ]
-    },
-    {
-      "ticker": "RIO",
+      "ticker": "DVN",
       "failed": [
         "Analysis"
       ]
@@ -91,12 +31,6 @@
       "ticker": "SQM",
       "failed": [
         "Radar"
-      ]
-    },
-    {
-      "ticker": "PWR",
-      "failed": [
-        "Analysis"
       ]
     }
   ]
