@@ -1,8 +1,38 @@
 {
-  "checked_at": "2026-04-30 16:44:01 (Hora Colombia)",
-  "confirmed": 0,
-  "signals": [],
+  "checked_at": "2026-05-01 09:51:57 (Hora Colombia)",
+  "confirmed": 1,
+  "signals": [
+    {
+      "ticker": "FMX",
+      "composite": 66,
+      "prob": 95,
+      "zones": {
+        "entry": 116.47,
+        "tp1": 121.79,
+        "tp2": 125.33,
+        "sl": 115.88
+      },
+      "periods": [
+        "1 Semana",
+        "1 Mes",
+        "3 Meses",
+        "6 Meses"
+      ]
+    }
+  ],
   "watchlist": [
+    {
+      "ticker": "VIST",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "DLO",
+      "failed": [
+        "Analysis"
+      ]
+    },
     {
       "ticker": "MU",
       "failed": [
@@ -16,13 +46,43 @@
       ]
     },
     {
+      "ticker": "LRCX",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "AMAT",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "MPWR",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "POWL",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "failed": [
+        "Radar"
+      ]
+    },
+    {
       "ticker": "HAL",
       "failed": [
         "Radar"
       ]
     },
     {
-      "ticker": "DVN",
+      "ticker": "RIO",
       "failed": [
         "Analysis"
       ]
@@ -31,6 +91,12 @@
       "ticker": "SQM",
       "failed": [
         "Radar"
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "failed": [
+        "Analysis"
       ]
     }
   ]
